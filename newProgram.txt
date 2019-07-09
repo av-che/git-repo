@@ -1,4 +1,7 @@
-Print Hello World!!!123
-Print ("How are you?")
-Print ("Hello my dear friend!")
-Print ('"Glad to see you")
+Print Hello World!!!123;
+Print ("How are you?");
+Print ("Hello !!!");
+Print ("Hello my dear friend!");
+Print ('"Glad to see you");
+
+
